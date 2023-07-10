@@ -1,3 +1,5 @@
-# Fatec-Lists-C-language.
- The purpose of this repository is to show all exercises in language c that were made in the first and second bimester proposed in the 
- second semester.
+# Trainning C Language.
+
+The scripts in this repository was made when a I started to leadn important things, like Pointer, Memory Allocation, recursive functions and more. 
+
+Here we have a simples problems solving using C language
